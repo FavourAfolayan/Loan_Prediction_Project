@@ -1,0 +1,5 @@
+fastapi
+jsonschema
+pydantic
+scikit-learn
+uvicorn
